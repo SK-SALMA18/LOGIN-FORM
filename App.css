@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/022/460/209/large_2x/a-computer-desktop-wallpaper-for-forex-trading-terminal-ai-generative-desktop-background-free-photo.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  form{
+      background-image: url("https://st3.depositphotos.com/1007600/17449/i/450/depositphotos_174490352-stock-photo-light-abstract-gradient-motion-blurred.jpg");
+      background-size: cover;
+      background-position: center;
+      box-shadow:0 0 3px red;
+      padding: 0px 60px;
+      border-radius: 10px;
+  }
+  
+  h1{
+      color:white;
+      text-align: center;
+      margin-bottom: 25px;
+  }
+  
+  .button{
+      width: 50%;
+      height: 50px;
+      padding: 10px;
+      border: none;
+      background-color:burlywood;
+      color: white;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 18px;
+      cursor: pointer;
+      margin: 15px 0px 30px 60px;
+  }
+  
+.button:hover{
+    background-color:cornflowerblue;
+    color: black;
+}
+.pass{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 20px;
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
